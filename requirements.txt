@@ -1,4 +1,4 @@
-dialogflow-fulfillment
+dialogflow-fulfillment==0.4.4
 astroid==2.4.2
 autopep8==1.5.4
 certifi==2020.12.5
