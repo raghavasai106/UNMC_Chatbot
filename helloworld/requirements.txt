@@ -1,19 +1,20 @@
-dialogflow-fulfillment==0.4.4
 astroid==2.4.2
 autopep8==1.5.4
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
+dialogflow-fulfillment==0.4.4
 Flask==1.1.2
 gunicorn==20.0.4
 idna==2.10
+importlib-metadata==4.11.4
 isort==5.5.2
 itsdangerous==1.1.0
 Jinja2==2.11.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.19.2
+ngrok==0.0.1
 pycodestyle==2.6.0
 PyJWT==1.7.1
 pylint==2.6.0
@@ -26,3 +27,4 @@ twilio==6.53.0
 urllib3==1.26.3
 Werkzeug==1.0.1
 wrapt==1.12.1
+zipp==3.8.0
